@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seungwubaek/seungwubaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Seungwu Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwubaek)](https://github.com/seungwubaek/github-readme-stats)
+![Seungwu Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwubaek&count_private=true&show_icons=true)

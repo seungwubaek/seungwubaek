@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=seungwubaek&count_private=true&show_icons=true" />
-  <br />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=seungwubaek&count_private=true&show_icons=true" /> 
+  <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungwubaek&layout=compact" />
 </p>
